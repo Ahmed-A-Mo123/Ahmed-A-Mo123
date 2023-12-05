@@ -24,7 +24,7 @@ I'm Ahmed A. Mohamed, a tech enthusiast and aspiring developer, exploring the va
 
 ## Let's Connect!
 
-- 📫 **Reach Out**: I'm always open to new connections and collaborations. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ahmed~mohamed~1999). Whether it's discussing the latest tech trends or exploring potential projects, I'm just a message away.
+- 📫 **Reach Out**: I'm always open to new connections and collaborations. Feel free to connect with me on www.linkedin.com/in/ahmed~mohamed~1999. Whether it's discussing the latest tech trends or exploring potential projects, I'm just a message away.
 
 - 🌐 **Portfolio**: Check out my portfolio, where I showcase some of my projects and experiences.
 
