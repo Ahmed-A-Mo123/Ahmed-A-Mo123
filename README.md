@@ -1,4 +1,3 @@
-```markdown
 # Hello World! 👋
 
 I'm Ahmed A. Mohamed, a tech enthusiast and aspiring developer, exploring the vast realms of technology and programming. Here's a deeper dive into who I am and what I'm passionate about:
@@ -30,7 +29,7 @@ I'm Ahmed A. Mohamed, a tech enthusiast and aspiring developer, exploring the va
 - 🌐 **Portfolio**: Check out my portfolio, where I showcase some of my projects and experiences.
 
 Let's embark on this exciting journey of technology, innovation, and collaboration! 🚀
-```
+
 
 <!---
 Ahmed-A-Mo123/Ahmed-A-Mo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
